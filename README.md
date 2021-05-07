@@ -7,7 +7,7 @@ Install ``docker`` and run ``docker-compose up --build`` to build and start proj
 
 ### Admin routes
 authorization = ``basic`` \
-credentials = ``admin:admin123`` \
+credentials = ``admin:admin123``
 
 1. Create/Update/Delete survey \
 route = ``/survey/`` \
